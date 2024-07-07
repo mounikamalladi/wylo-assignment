@@ -1,0 +1,52 @@
+.form-container{
+    height: 270px;
+    width:300px;
+    background-color:white;
+    padding:10px;
+    border-radius:20px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    box-shadow: 16px 16px 24px 0px gray;
+}
+.heading{
+   color:blueviolet;
+   font-size:28px;
+   font-family:"Bree-Serif";
+}
+
+.card-container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.input-container{
+    display:flex;
+    flex-direction:column;
+    margin-bottom:10px;
+}
+.label-element{
+    color:black;
+    font-size:14px;
+    font-family:"Roboto";
+    margin-bottom:4px;
+}
+.input-element{
+   width:200px;
+   color:royalblue;
+   font-family:"Roboto";
+   font-size:16px;
+   padding:5px;
+}
+.button{
+    height:35px;
+    width:100px;
+    border-radius:10px;
+    font-family:"Roboto";
+    font-size:14px;
+    border: 2px solid blueviolet;
+    color:blueviolet;
+    background-color:transparent;
+    margin-top:15px;
+}

@@ -1,0 +1,29 @@
+.app-container{
+  height:120vh;
+  background-image:linear-gradient(to bottom, #fff1eb,  #ace0f9);
+  background-size:cover;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+.main-heading{
+  color:brown;
+  font-size:38px;
+  font-family:"Roboto";
+  font-weight:800;
+}
+.paragraph{
+  color:black;
+  font-family:"Roboto";
+  font-size:16px;
+  font-weight:600;
+}
+span{
+  color:red;
+}
+.hr-line{
+  width:100%;
+  border-width:1px;
+  border-color:lightgray;
+  margin-top:20px;
+}
